@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=DOSBox Game Launcher
+Version=1.0
+Exec=/usr/share/games/dbgl/dbgl
+Comment=A free, open-source, multi-platform frontend for DOSBox
+Icon=/usr/share/pixmaps/dbgl.png
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=Game;

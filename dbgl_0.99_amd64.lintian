@@ -1,0 +1,32 @@
+E: dbgl: control-file-has-bad-permissions 0755 != 0644 [md5sums]
+E: dbgl: copyright-file-contains-full-gpl-license
+E: dbgl: copyright-not-using-common-license-for-lgpl
+E: dbgl: executable-desktop-file 0755 [usr/share/applications/DOSBox_Game_Launcher.desktop]
+E: dbgl: executable-in-usr-share-doc 0755 [usr/share/doc/dbgl/copyright]
+E: dbgl: executable-jar-without-main-class [usr/share/games/dbgl/lib/commons-io-2.17.0.jar]
+E: dbgl: executable-jar-without-main-class [usr/share/games/dbgl/lib/commons-lang3-3.17.0.jar]
+E: dbgl: executable-jar-without-main-class [usr/share/games/dbgl/lib/commons-text-1.12.0.jar]
+E: dbgl: executable-jar-without-main-class [usr/share/games/dbgl/lib/gallery-2.3.0.jar]
+E: dbgl: executable-jar-without-main-class [usr/share/games/dbgl/lib/jersey-2.45.jar]
+E: dbgl: executable-jar-without-main-class [usr/share/games/dbgl/lib/json-20240303.jar]
+E: dbgl: executable-jar-without-main-class [usr/share/games/dbgl/lib/swtlin64.jar]
+E: dbgl: missing-dep-on-jarwrapper
+E: dbgl: no-changelog usr/share/doc/dbgl/changelog.gz (native package)
+W: dbgl: depends-on-specific-java-doc-package Depends
+W: dbgl: executable-not-elf-or-script [usr/share/applications/DOSBox_Game_Launcher.desktop]
+W: dbgl: executable-not-elf-or-script [usr/share/doc/dbgl/copyright]
+W: dbgl: executable-not-elf-or-script [usr/share/games/dbgl/captures/null.txt]
+W: dbgl: executable-not-elf-or-script [usr/share/games/dbgl/db/mobygames.data]
+W: dbgl: executable-not-elf-or-script [usr/share/games/dbgl/db/mobygames.properties]
+W: dbgl: executable-not-elf-or-script [usr/share/games/dbgl/db/mobygames.script]
+W: dbgl: executable-not-elf-or-script [usr/share/games/dbgl/dosroot/null.txt]
+W: dbgl: executable-not-elf-or-script [usr/share/games/dbgl/export/null.txt]
+W: dbgl: executable-not-elf-or-script [usr/share/games/dbgl/profiles/null.txt]
+W: dbgl: executable-not-elf-or-script [usr/share/games/dbgl/templates/default.xml]
+W: dbgl: executable-not-elf-or-script [usr/share/games/dbgl/xsl/fancy_html.xsl]
+W: dbgl: executable-not-elf-or-script [usr/share/games/dbgl/xsl/simple_csv.xsl]
+W: dbgl: executable-not-elf-or-script [usr/share/games/dbgl/xsl/simple_txt.xsl]
+W: dbgl: executable-not-elf-or-script [usr/share/games/dbgl/xsl/vogons_html.xsl]
+W: dbgl: executable-not-elf-or-script [usr/share/pixmaps/dbgl.png]
+W: dbgl: extended-description-line-too-long line 1
+W: dbgl: extended-description-line-too-long line 4
